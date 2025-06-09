@@ -3,8 +3,7 @@
 # ✈️ SkyAir – Airline Reservation Management System  
 _Effortless flight booking with intuitive UX and robust backend_
 
-[![Documentation](https://img.shields.io/badge/Docs-View-blue)](https://github.com/atulyaaj/SkyAir-Airline-Reservation-Portal/blob/main/README.md)
-[![GitHub Stars](https://img.shields.io/github/stars/atulyaaj/SkyAir-Airline-Reservation-Portal?style=social)](https://github.com/atulyaaj/SkyAir-Airline-Reservation-Portal)
+[![Documentation](https://img.shields.io/badge/Docs-View-blue)](https://github.com/atulyaaj/skyAir/blob/main/README.md)
 
 </div>
 
