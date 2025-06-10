@@ -4,7 +4,7 @@
 _Effortless flight booking with intuitive UX and robust backend_
 
 [![Documentation](https://img.shields.io/badge/Docs-View-blue)](https://github.com/atulyaaj/skyAir/blob/main/README.md)
-[![Last Commit](https://img.shields.io/github/last-commit/atulyaaj/SkyAir-Airline-Reservation-Portal)](https://github.com/atulyaaj/SkyAir-Airline-Reservation-Portal/commits)
+[![Last Commit](https://img.shields.io/github/last-commit/atulyaaj/skyAir)](https://github.com/atulyaaj/skyAir/commits)
 ![Built with](https://img.shields.io/badge/Built%20with-PHP%20%7C%20MySQL%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-blue)
 
 </div>
