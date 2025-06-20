@@ -55,16 +55,13 @@ Test cases have been written for:
 
 <div align="center">
 
-![login](https://github.com/user-attachments/assets/8cc501cc-33c7-4f65-8899-f0e380a3a860)
-
+<img src="https://github.com/user-attachments/assets/8cc501cc-33c7-4f65-8899-f0e380a3a860" width="500" alt="Login Page"><br>
 🖥️ _Login Interface_
 
-![available-flights](https://github.com/user-attachments/assets/5c9bb994-ca98-4177-80de-ec0dd7d0a42e)
-
+<img src="https://github.com/user-attachments/assets/5c9bb994-ca98-4177-80de-ec0dd7d0a42e" width="500" alt="List of Available Flights"><br>
 🛫 _List of Available Flights_
 
- ![admin_panel](https://github.com/user-attachments/assets/60b26bd7-bfca-48a2-aae4-006c8b18bcbb)
-
+<img src="https://github.com/user-attachments/assets/60b26bd7-bfca-48a2-aae4-006c8b18bcbb" width="500" alt="Admin Dashboard"><br>
 🛠️ _Admin Dashboard for managing flights_
 
 </div>
